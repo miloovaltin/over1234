@@ -1,0 +1,16 @@
+{
+"name": "over1234",
+"theme": "over1234",
+"version": "2.4.3",
+"description": "over1234 ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
+"keywords": [
+"over1234",
+"over1234 เครดิตฟรี",
+"over1234 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/over1234",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
